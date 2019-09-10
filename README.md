@@ -1,4 +1,5 @@
-# belajarvue
+# Dailytask Manager
+Simple app to manage task everyday. This is a prototype version, you can develop it to be better!
 
 ## Project setup
 ```
